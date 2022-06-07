@@ -1,0 +1,7 @@
+{
+  "name": "pnp-react-devtools",
+  "packageManager": "yarn@3.2.1",
+  "devDependencies": {
+    "react-devtools": "^4.24.7"
+  }
+}
